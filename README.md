@@ -1,3 +1,12 @@
+Como hacer el ejercicio:
+
+- Primero cree las constantes para generar la funcionalidad
+- Después cree los divs dentro del componente home para separar las diferentes funciones
+- Aplique un className a cada una para tenerlo distribuido y los onClicks para que tenga funcionalidad
+- Después pose CSS para darle color y forma
+
+
+
 # Hello World with React boilerplate
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
