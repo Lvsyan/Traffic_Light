@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Home = () => {
-	const [selectedColor, setSelectedColor] = useState("red");
+	const [selectedColor, setSelectedColor] = useState(null);
 
 	return (
 		<div className="position-absolute top-50 start-50 translate-middle">
